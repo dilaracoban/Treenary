@@ -1,0 +1,16 @@
+# Bytecode compiled files
+*.pyc
+__pycache__/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+env/
+.venv/
+venv/
+
+.txt
+.csv
