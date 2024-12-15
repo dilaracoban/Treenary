@@ -89,8 +89,8 @@ Install dependencies using:
 
 ## License
 
-This project is bachelor thesis for ENS492 Graduation Project - Implementation Course in Sabanci University. Project supervisor is Ogun Adebali.
----
+This project is bachelor thesis for ENS492 Graduation Project - Implementation Course in Sabanci University. Project supervisor is Ogun Adebali
+
 
 ## Author and Contributors
 - **Dilara Coban**  
